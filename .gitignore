@@ -1,0 +1,15 @@
+# Linux kernel module build artifacts
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+Module.symvers
+modules.order
+
+# Local Python and editor files
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.vscode/
